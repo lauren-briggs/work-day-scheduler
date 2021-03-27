@@ -25,6 +25,7 @@ textarea {
 
 .description {
   white-space: pre-wrap;
+  border: none;
 }
 
 .time-block {
@@ -45,24 +46,22 @@ textarea {
 }
 
 .past {
-  background-color: #d3d3d3;
-  color: white;
+  background-color: #EEE6CD;
+  color: #746a4c;
 }
 
 .present {
-  background-color: #ff6961;
-  color: white;
+  background-color: #E5C8ED;
+  color: #975aa8;
 }
 
 .future {
-  background-color: #77dd77;
-  color: white;
+  background-color: #D1D8F0;
+  color: #263f92;
 }
 
 .saveBtn {
-  border-left: 1px solid rgb(167, 228, 247);
-  border-top-right-radius: 15px;
-  border-bottom-right-radius: 15px;
+  border: none;
   background-color: #95deee;
   color: white;
 }
