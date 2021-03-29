@@ -17,6 +17,12 @@ user input - local storage - to do:
 - create a function to add users input to local storage on button click
 
 
+## Deployed Site
+[a Deployed Site](https://lauren-briggs.github.io/work-day-scheduler/) 
+
+## Screnshot of deployed site
+[a Screenshot of site](assets/img/screenshot.png)
+
 
 // Created a variable in js to link to the currentDay in the HTML DOM
 
@@ -43,3 +49,4 @@ user input - local storage - to do:
 
 //Created a for loop to print saved events to DOM
 -
+
