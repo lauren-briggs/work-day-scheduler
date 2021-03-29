@@ -75,6 +75,22 @@ saveBtn.on("click", function storeEvent(event) {
 
 
 
+//print saved events on DOM
+for (var i = 9; i <= 17; i++) {
+    if (i == 9) {
+        key = "09"
+    } else {
+        key = i
+    }
+    console.log(key);
+    var item = localStorage.getItem(key);
+    var textarea = $(`#${i} input`);
+    console.log(textarea);
+    console.log(item);
+    textarea.val(item);
+
+}
+
 
 // //event listener for save
 // saveBtn.on("click", storeEvent);
