@@ -2,26 +2,12 @@
 Week 05 Homework - simple calendar application that allows a user to save events for each hour of the day.
 
 
+### ⭐ DEPLOYED SITE
 
-//To do:
-- Add current day at top of calendar
-- Add timeblocks for standard business hours (9-5)
-- Change colour of block to show past/present/future
-- Make timeblocks text areas for user input
-- Add save/submit button
-- Take users input, save to local storage, and save/print user input on timeblock
-- Add link and screenshot of live site
+[Click here](https://lauren-briggs.github.io/work-day-scheduler/).
 
-user input - local storage - to do:
-- create variable to link to input element in HTML
-- create a function to add users input to local storage on button click
+![Screenshot of deployed site](assets/img/screenshot.png)
 
-
-## Deployed Site
-[a Deployed Site](https://lauren-briggs.github.io/work-day-scheduler/) 
-
-## Screnshot of deployed site
-[a Screenshot of site](assets/img/screenshot.png)
 
 
 // Created a variable in js to link to the currentDay in the HTML DOM
